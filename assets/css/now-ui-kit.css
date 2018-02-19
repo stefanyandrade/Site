@@ -3475,7 +3475,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 }
 
 .btn-primary {
-    background-color: #f96332;
+    background-color: #EA6759;
     color: #FFFFFF;
 }
 
@@ -3490,7 +3490,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .show>.btn-primary.dropdown-toggle,
 .show>.btn-primary.dropdown-toggle:focus,
 .show>.btn-primary.dropdown-toggle:hover {
-    background-color: #fa7a50;
+    background-color: #EA6759;
     color: #FFFFFF;
     box-shadow: none;
 }
@@ -3528,34 +3528,34 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-primary.btn-simple {
-    color: #f96332;
-    border-color: #f96332;
+    color: #EA6759;
+    border-color: #EA6759;
 }
 
 .btn-primary.btn-simple:hover,
 .btn-primary.btn-simple:focus,
 .btn-primary.btn-simple:active {
     background-color: transparent;
-    color: #fa7a50;
-    border-color: #fa7a50;
+    color: #EA6759;
+    border-color: #EA6759;
     box-shadow: none;
 }
 
 .btn-primary.btn-link {
-    color: #f96332;
+    color: #EA6759;
 }
 
 .btn-primary.btn-link:hover,
 .btn-primary.btn-link:focus,
 .btn-primary.btn-link:active {
     background-color: transparent;
-    color: #fa7a50;
+    color: #EA6759;
     text-decoration: none;
     box-shadow: none;
 }
 
 .btn-success {
-    background-color: #18ce0f;
+    background-color: #EA6759;
     color: #FFFFFF;
 }
 
@@ -5130,7 +5130,7 @@ p {
 }
 
 .text-primary {
-    color: #f96332 !important;
+    color: #EA6759 !important;
 }
 
 .text-info {
@@ -7012,7 +7012,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .icon.icon-primary {
-    color: #f96332;
+    color: #EA6759;
 }
 
 .icon.icon-primary.icon-circle {
