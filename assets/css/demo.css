@@ -71,7 +71,7 @@
 }
 
 .presentation-page .section-icons[data-background-color="black"] {
-    background-color: #777777;
+    background-color: #ffffff;
 }
 
 .presentation-page .section-icons .icons-nucleo {
@@ -698,7 +698,7 @@
 
 .presentation-page .page-header,
 .index-page .page-header {
-    background: #d0aea8;
+    background: #ffffff;
 }
 
 .index-page .rellax-text-container {

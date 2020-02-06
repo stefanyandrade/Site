@@ -3475,7 +3475,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 }
 
 .btn-primary {
-    background-color: #EA6759;
+    background-color: #fc7a8e;
     color: #FFFFFF;
 }
 
@@ -3490,7 +3490,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .show>.btn-primary.dropdown-toggle,
 .show>.btn-primary.dropdown-toggle:focus,
 .show>.btn-primary.dropdown-toggle:hover {
-    background-color: #EA6759;
+    background-color: #a9b6fc;
     color: #FFFFFF;
     box-shadow: none;
 }
@@ -3528,34 +3528,34 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-primary.btn-simple {
-    color: #EA6759;
-    border-color: #EA6759;
+    color: #f96332;
+    border-color: #f96332;
 }
 
 .btn-primary.btn-simple:hover,
 .btn-primary.btn-simple:focus,
 .btn-primary.btn-simple:active {
     background-color: transparent;
-    color: #EA6759;
-    border-color: #EA6759;
+    color: #fa7a50;
+    border-color: #fa7a50;
     box-shadow: none;
 }
 
 .btn-primary.btn-link {
-    color: #EA6759;
+    color: #f96332;
 }
 
 .btn-primary.btn-link:hover,
 .btn-primary.btn-link:focus,
 .btn-primary.btn-link:active {
     background-color: transparent;
-    color: #EA6759;
+    color: #fa7a50;
     text-decoration: none;
     box-shadow: none;
 }
 
 .btn-success {
-    background-color: #EA6759;
+    background-color: #18ce0f;
     color: #FFFFFF;
 }
 
@@ -5024,12 +5024,12 @@ small {
 }
 
 a {
-    color: #f96332;
+    color: #a9b6fc;
 }
 
 a:hover,
 a:focus {
-    color: #f96332;
+    color: #a9b6fc;
 }
 
 h1,
@@ -5095,7 +5095,6 @@ h6,
 
 p {
     line-height: 1.61em;
-    font-weight: 300;
     font-size: 1.2em;
 }
 
@@ -5130,7 +5129,7 @@ p {
 }
 
 .text-primary {
-    color: #EA6759 !important;
+    color: #f96332 !important;
 }
 
 .text-info {
@@ -6038,6 +6037,11 @@ body {
 
 img {
     max-width: 100%;
+    border-radius: 1px;
+}
+
+.logo {
+    max-width: 50%;
     border-radius: 1px;
 }
 
@@ -7012,7 +7016,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .icon.icon-primary {
-    color: #EA6759;
+    color: #f96332;
 }
 
 .icon.icon-primary.icon-circle {
@@ -8005,7 +8009,6 @@ Created using IcoMoon - icomoon.io
     display: inline-block;
     position: relative;
     width: 100%;
-    margin-bottom: 30px;
     box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
 }
 
@@ -8616,7 +8619,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .card-fashion {
-    min-height: 500px;
+    min-height: 350px;
     border-radius: 0;
     box-shadow: none;
     margin: 0;
@@ -9566,7 +9569,7 @@ Created using IcoMoon - icomoon.io
     background-position: center center;
     width: 100%;
     height: 100%;
-    z-index: -1;
+ 
 }
 
 .page-header .content-center {
@@ -9597,7 +9600,7 @@ Created using IcoMoon - icomoon.io
 
 .page-header .category,
 .page-header .description {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(73, 73, 73);
 }
 
 .page-header.page-header-small {
@@ -9631,7 +9634,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header:before {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0);
 }
 
 .page-header[filter-color="orange"] {
@@ -10131,7 +10134,7 @@ Created using IcoMoon - icomoon.io
 [class*="pricing-"],
 [class*="testimonials-"],
 [class*="contactus-"] {
-    padding: 80px 0;
+    padding: 0px 0;
 }
 
 .page-header .carousel .carousel-indicators {
@@ -10143,7 +10146,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header .title {
-    color: #FFFFFF;
+    color: #011b88;
 }
 
 .page-header.header-small {
