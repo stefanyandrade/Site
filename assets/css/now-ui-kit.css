@@ -615,7 +615,7 @@
 
 .slider.slider-primary .noUi-connect,
 .slider.slider-primary.noUi-connect {
-    background-color: #f96332;
+    background-color: #23049D;
 }
 
 .slider.slider-primary.noUi-target {
@@ -3475,7 +3475,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 }
 
 .btn-primary {
-    background-color: #fc7a8e;
+    background-color: #23049D;
     color: #FFFFFF;
 }
 
@@ -3635,7 +3635,7 @@ fieldset[disabled] .btn-success.active {
 }
 
 .btn-info {
-    background-color: #2CA8FF;
+    background-color: #FF79CD;
     color: #FFFFFF;
 }
 
@@ -3650,7 +3650,7 @@ fieldset[disabled] .btn-success.active {
 .show>.btn-info.dropdown-toggle,
 .show>.btn-info.dropdown-toggle:focus,
 .show>.btn-info.dropdown-toggle:hover {
-    background-color: #4bb5ff;
+    background-color: #AA2EE6;
     color: #FFFFFF;
     box-shadow: none;
 }
@@ -3688,7 +3688,7 @@ fieldset[disabled] .btn-info.active {
 }
 
 .btn-info.btn-simple {
-    color: #2CA8FF;
+    color: #FF79CD;
     border-color: #2CA8FF;
 }
 
@@ -3696,7 +3696,7 @@ fieldset[disabled] .btn-info.active {
 .btn-info.btn-simple:focus,
 .btn-info.btn-simple:active {
     background-color: transparent;
-    color: #4bb5ff;
+    color: #FFDF6B;
     border-color: #4bb5ff;
     box-shadow: none;
 }
@@ -5469,7 +5469,7 @@ body {
     padding-bottom: 0.625rem;
     min-height: 53px;
     margin-bottom: 20px;
-    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 0px 20px 0px rgba(74, 94, 162, 0.15);
 }
 
 .navbar a {
@@ -5641,7 +5641,7 @@ body {
 }
 
 .bg-primary {
-    background-color: #f96332 !important;
+    background-color: #8b9fe0 !important;
 }
 
 .bg-info {
@@ -6041,7 +6041,7 @@ img {
 }
 
 .logo {
-    max-width: 50%;
+    max-width: 15%;
     border-radius: 1px;
 }
 
@@ -6879,6 +6879,7 @@ Created using IcoMoon - icomoon.io
     display: block;
 }
 
+
 .table-shopping .img-container img {
     width: 100%;
 }
@@ -7020,7 +7021,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .icon.icon-primary.icon-circle {
-    box-shadow: 0px 9px 30px -6px rgba(249, 99, 50, 0.3);
+    box-shadow: 0px 9px 30px -6px rgba(169, 182, 252, 0.6);
 }
 
 .icon.icon-info {
@@ -8170,7 +8171,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .card-raised {
-    box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 10px 30px 0px rgba(169, 182, 252, 0.3);
 }
 
 .card-blog .row .category {
@@ -8353,7 +8354,7 @@ Created using IcoMoon - icomoon.io
 .card-background .card-block {
     position: relative;
     z-index: 2;
-    min-height: 370px;
+    min-height: 500px;
     max-width: 530px;
     margin: 0 auto;
     padding-top: 60px;
@@ -8401,7 +8402,6 @@ Created using IcoMoon - icomoon.io
     left: 0;
     top: 0;
     content: "";
-    background-color: rgba(0, 0, 0, 0.63);
     border-radius: 0.25rem;
 }
 
@@ -10146,7 +10146,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header .title {
-    color: #011b88;
+    color: #fc7a8e;
 }
 
 .page-header.header-small {
